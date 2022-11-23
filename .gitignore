@@ -18,3 +18,7 @@ plink.hh
 plink.md
 
 task_a.txt
+
+*.csv
+
+*.sec
